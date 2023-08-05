@@ -10,17 +10,17 @@ This repository contains a list of all
 You can see the devices by:
 
 - Going to [Matter Database](https://www.matterdatabase.com/).
-- Look through the data at ..
+- Look through [the JSON data](https://github.com/matterdatabase/matterdatabase/blob/main/devices/devices.json)
 
 ## Contributing
 
 This database is an active open-source project and is always open to
 people who want to contribute to it. We have set up a separate document
-containing our [Contribution Guidelines](x).
+containing the [Contribution Guidelines](https://github.com/matterdatabase/matterdatabase/blob/main/.github/contributing.md).
 
 ## Trademark Legal Notice
 
-This Awesome list is not created, developed, affiliated, supported, maintained
+This databsae is not created, developed, affiliated, supported, maintained
 or endorsed by the Connectivity Standard Alliance.
 
 All product names, logos, brands, trademarks and registered trademarks are
