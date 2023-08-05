@@ -16,7 +16,7 @@ You can see the devices by:
 
 This database is an active open-source project and is always open to
 people who want to contribute to it. We have set up a separate document
-containing our [Contribution Guidelines](x).
+containing the [Contribution Guidelines](https://github.com/matterdatabase/matterdatabase/blob/main/.github/contributing.md).
 
 ## Trademark Legal Notice
 
