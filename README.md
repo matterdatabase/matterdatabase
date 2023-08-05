@@ -10,7 +10,7 @@ This repository contains a list of all
 You can see the devices by:
 
 - Going to [Matter Database](https://www.matterdatabase.com/).
-- Look through the data at ..
+- Look through [the JSON data](https://github.com/matterdatabase/matterdatabase/blob/main/devices/devices.json)
 
 ## Contributing
 
