@@ -20,7 +20,7 @@ containing our [Contribution Guidelines](x).
 
 ## Trademark Legal Notice
 
-This Awesome list is not created, developed, affiliated, supported, maintained
+This databsae is not created, developed, affiliated, supported, maintained
 or endorsed by the Connectivity Standard Alliance.
 
 All product names, logos, brands, trademarks and registered trademarks are
