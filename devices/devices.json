@@ -10,24 +10,9 @@
     "supportsWifi": true,
     "supportsBluetooth": false,
     "display": false,
-    "buyLinks": [],
-    "available": false,
-    "ean": null
-  },
-  {
-    "image": "product_images/zemismart_roller_motor.webp",
-    "product": "Zemismart Roller Motor",
-    "manufacturer": "Zemismart",
-    "certification_id": "Certificate ID: CSA23099MAT40612-24",
-    "certification_link": "https://csa-iot.org/csa_product/zemismart-matter-roller-motor/",
-    "category": "Blinds / Shades",
-    "supportsThread": false,
-    "supportsWifi": true,
-    "supportsBluetooth": false,
-    "display": true,
     "note": "",
     "buyLinks": [],
-    "available": true,
+    "available": false,
     "ean": null
   },
   {
@@ -41,6 +26,7 @@
     "supportsWifi": true,
     "supportsBluetooth": false,
     "display": false,
+    "note": "This is where Signify sources its WiZ bulbs from.",
     "buyLinks": [],
     "available": false,
     "ean": null
@@ -56,6 +42,7 @@
     "supportsWifi": false,
     "supportsBluetooth": true,
     "display": true,
+    "note": "",
     "buyLinks": [
       "https://nanoleaf.me/en-US/products/essentials/lightstrips/?category=lightstrips&standard=matter&pack=smarter-kit&size=2",
       "https://www.apple.com/shop/product/HQWX2ZM/A/Nanoleaf%20Essentials%20Matter%2080%22%20Smart%20LED%20Lightstrip%20(2m)%20-%20Smarter%20Kit?fnode=1426e63e816cb42a22b0db46bbead0fffec44243c497d3e97cf3c748bfa19c168c85905c106dceec210fcf1cfda7097f8017d2e27e54d92572333f44612f4122fdc20ae425dbd057dbe7bbc4cf06de9056173ec99361f045dd59faf05de54b1d"
@@ -74,6 +61,7 @@
     "supportsWifi": true,
     "supportsBluetooth": false,
     "display": true,
+    "note": "",
     "buyLinks": [],
     "available": true,
     "ean": "8718699786038"
@@ -89,6 +77,7 @@
     "supportsWifi": false,
     "supportsBluetooth": false,
     "display": false,
+    "note": "Module company",
     "buyLinks": [],
     "available": false,
     "ean": null
@@ -104,6 +93,7 @@
     "supportsWifi": true,
     "supportsBluetooth": false,
     "display": false,
+    "note": "Module company",
     "buyLinks": [],
     "available": false,
     "ean": null
@@ -119,6 +109,7 @@
     "supportsWifi": false,
     "supportsBluetooth": false,
     "display": true,
+    "note": "",
     "buyLinks": [],
     "available": false,
     "ean": null
@@ -134,6 +125,7 @@
     "supportsWifi": false,
     "supportsBluetooth": false,
     "display": true,
+    "note": "",
     "buyLinks": [],
     "available": true,
     "ean": null
@@ -149,6 +141,7 @@
     "supportsWifi": true,
     "supportsBluetooth": false,
     "display": true,
+    "note": "",
     "buyLinks": [],
     "available": false,
     "ean": null
@@ -164,6 +157,7 @@
     "supportsWifi": false,
     "supportsBluetooth": false,
     "display": true,
+    "note": "",
     "buyLinks": [],
     "available": true,
     "ean": "4260195391994"
@@ -179,6 +173,7 @@
     "supportsWifi": false,
     "supportsBluetooth": false,
     "display": true,
+    "note": "",
     "buyLinks": [],
     "available": true,
     "ean": "4260195391970"
@@ -194,6 +189,7 @@
     "supportsWifi": false,
     "supportsBluetooth": false,
     "display": true,
+    "note": "",
     "buyLinks": [],
     "available": false,
     "ean": "4260195390997"
@@ -209,6 +205,7 @@
     "supportsWifi": false,
     "supportsBluetooth": false,
     "display": true,
+    "note": "",
     "buyLinks": [],
     "available": false,
     "ean": "4260195391376"
@@ -224,6 +221,7 @@
     "supportsWifi": false,
     "supportsBluetooth": false,
     "display": false,
+    "note": "Can't find a product page for this",
     "buyLinks": [],
     "available": false,
     "ean": null
@@ -239,6 +237,7 @@
     "supportsWifi": false,
     "supportsBluetooth": true,
     "display": true,
+    "note": "",
     "buyLinks": [],
     "available": true,
     "ean": null
@@ -254,6 +253,7 @@
     "supportsWifi": false,
     "supportsBluetooth": true,
     "display": true,
+    "note": "",
     "buyLinks": [],
     "available": true,
     "ean": null
@@ -269,6 +269,7 @@
     "supportsWifi": false,
     "supportsBluetooth": false,
     "display": false,
+    "note": "Not consumer facing",
     "buyLinks": [],
     "available": false,
     "ean": null
@@ -284,6 +285,7 @@
     "supportsWifi": true,
     "supportsBluetooth": false,
     "display": true,
+    "note": "",
     "buyLinks": [],
     "available": true,
     "ean": null
@@ -299,6 +301,7 @@
     "supportsWifi": false,
     "supportsBluetooth": false,
     "display": false,
+    "note": "Not consumer focused",
     "buyLinks": [],
     "available": false,
     "ean": null
@@ -314,6 +317,7 @@
     "supportsWifi": true,
     "supportsBluetooth": false,
     "display": true,
+    "note": "",
     "buyLinks": [],
     "available": false,
     "ean": "4047443443120"
@@ -329,6 +333,7 @@
     "supportsWifi": false,
     "supportsBluetooth": false,
     "display": true,
+    "note": "",
     "buyLinks": [],
     "available": true,
     "ean": null
@@ -344,6 +349,7 @@
     "supportsWifi": false,
     "supportsBluetooth": false,
     "display": true,
+    "note": "",
     "buyLinks": [],
     "available": false,
     "ean": null
@@ -359,6 +365,7 @@
     "supportsWifi": true,
     "supportsBluetooth": false,
     "display": true,
+    "note": "Not found a matter intergrated one yet.",
     "buyLinks": [],
     "available": false,
     "ean": "6920075777093"
@@ -374,6 +381,7 @@
     "supportsWifi": false,
     "supportsBluetooth": false,
     "display": true,
+    "note": "",
     "buyLinks": [],
     "available": true,
     "ean": null
@@ -389,6 +397,7 @@
     "supportsWifi": false,
     "supportsBluetooth": false,
     "display": false,
+    "note": "Can't find a link to buy this product",
     "buyLinks": [],
     "available": false,
     "ean": null
@@ -404,6 +413,7 @@
     "supportsWifi": true,
     "supportsBluetooth": true,
     "display": true,
+    "note": "",
     "buyLinks": [],
     "available": true,
     "ean": "6974316992608"
@@ -419,6 +429,7 @@
     "supportsWifi": true,
     "supportsBluetooth": true,
     "display": true,
+    "note": "",
     "buyLinks": [],
     "available": true,
     "ean": ""
@@ -434,6 +445,7 @@
     "supportsWifi": false,
     "supportsBluetooth": false,
     "display": false,
+    "note": "Can not find a link to buy this product",
     "buyLinks": [],
     "available": false,
     "ean": null
@@ -449,6 +461,7 @@
     "supportsWifi": false,
     "supportsBluetooth": false,
     "display": false,
+    "note": "Espressif is not consumer focused",
     "buyLinks": [],
     "available": false,
     "ean": null
@@ -464,6 +477,7 @@
     "supportsWifi": false,
     "supportsBluetooth": false,
     "display": false,
+    "note": "Can not find any product",
     "buyLinks": [],
     "available": false,
     "ean": null
@@ -479,6 +493,7 @@
     "supportsWifi": false,
     "supportsBluetooth": false,
     "display": false,
+    "note": "Can\t find any product",
     "buyLinks": [],
     "available": false,
     "ean": null
@@ -494,6 +509,7 @@
     "supportsWifi": false,
     "supportsBluetooth": false,
     "display": false,
+    "note": "Not consumer focused",
     "buyLinks": [],
     "available": false,
     "ean": null
@@ -509,6 +525,7 @@
     "supportsWifi": false,
     "supportsBluetooth": false,
     "display": false,
+    "note": "Not consumer focused",
     "buyLinks": [],
     "available": false,
     "ean": null
@@ -524,6 +541,7 @@
     "supportsWifi": false,
     "supportsBluetooth": false,
     "display": false,
+    "note": "Not consumer focused",
     "buyLinks": [],
     "available": false,
     "ean": null
@@ -539,6 +557,7 @@
     "supportsWifi": false,
     "supportsBluetooth": false,
     "display": false,
+    "note": "Not consumer focused",
     "buyLinks": [],
     "available": false,
     "ean": null
@@ -554,6 +573,7 @@
     "supportsWifi": true,
     "supportsBluetooth": false,
     "display": true,
+    "note": "",
     "buyLinks": [],
     "available": false,
     "ean": null
@@ -569,6 +589,7 @@
     "supportsWifi": false,
     "supportsBluetooth": false,
     "display": false,
+    "note": "Not consumer focused",
     "buyLinks": [],
     "available": false,
     "ean": null
@@ -584,6 +605,7 @@
     "supportsWifi": true,
     "supportsBluetooth": true,
     "display": true,
+    "note": "",
     "buyLinks": [],
     "available": false,
     "ean": "7439647764786"
@@ -599,6 +621,23 @@
     "supportsWifi": true,
     "supportsBluetooth": false,
     "display": true,
+    "note": "",
+    "buyLinks": [],
+    "available": true,
+    "ean": null
+  },
+  {
+    "image": "product_images/wiz_plug.webp",
+    "product": "Wiz Plug",
+    "manufacturer": "WiZ",
+    "certification_id": "",
+    "certification_link": "",
+    "category": "plugs",
+    "supportsThread": false,
+    "supportsWifi": true,
+    "supportsBluetooth": false,
+    "display": true,
+    "note": "",
     "buyLinks": [],
     "available": true,
     "ean": null
@@ -614,6 +653,7 @@
     "supportsWifi": true,
     "supportsBluetooth": true,
     "display": true,
+    "note": "",
     "buyLinks": [],
     "available": true,
     "ean": "6974316991281"
@@ -629,10 +669,44 @@
     "supportsWifi": true,
     "supportsBluetooth": false,
     "display": true,
+    "note": " L535",
     "buyLinks": [],
     "available": true,
     "ean": null
   },
+  {
+    "image": "product_images/aqara_t1_strip.webp",
+    "product": "Aqara T1 Strip",
+    "manufacturer": "Aqara",
+    "certification_id": "",
+    "certification_link": "",
+    "category": "light",
+    "supportsThread": false,
+    "supportsWifi": true,
+    "supportsBluetooth": false,
+    "display": true,
+    "note": "",
+    "buyLinks": [],
+    "available": true,
+    "ean": null
+  },
+  {
+    "image": "product_images/leviton_outdoor_plug.webp",
+    "product": "Leviton Outdoor Plug",
+    "manufacturer": "Leviton",
+    "certification_id": "",
+    "certification_link": "",
+    "category": "plugs",
+    "supportsThread": false,
+    "supportsWifi": true,
+    "supportsBluetooth": false,
+    "display": true,
+    "note": "",
+    "buyLinks": [],
+    "available": true,
+    "ean": null
+  },
+
   {
     "image": "product_images/leedarson_smart_plug.webp",
     "product": "Smart Thread Plug",
@@ -644,6 +718,7 @@
     "supportsWifi": false,
     "supportsBluetooth": false,
     "display": true,
+    "note": "Brands -> LEEDARSON, Mujoy, Orein, Linkin, etc.",
     "buyLinks": [],
     "available": false,
     "ean": null
@@ -659,10 +734,12 @@
     "supportsWifi": true,
     "supportsBluetooth": false,
     "display": true,
+    "note": "Brands -> LEEDARSON, Mujoy, Orein, Linkin, etc.",
     "buyLinks": [],
     "available": false,
     "ean": null
   },
+
   {
     "image": "product_images/tuya_strip.webp",
     "product": "TUYA Wi-Fi Strip Light",
@@ -674,6 +751,7 @@
     "supportsWifi": true,
     "supportsBluetooth": false,
     "display": true,
+    "note": "",
     "buyLinks": [],
     "available": false,
     "ean": null
@@ -689,6 +767,7 @@
     "supportsWifi": true,
     "supportsBluetooth": false,
     "display": true,
+    "note": "",
     "buyLinks": [],
     "available": false,
     "ean": null
@@ -704,6 +783,7 @@
     "supportsWifi": false,
     "supportsBluetooth": false,
     "display": false,
+    "note": "",
     "buyLinks": [],
     "available": false,
     "ean": null
@@ -719,6 +799,7 @@
     "supportsWifi": false,
     "supportsBluetooth": false,
     "display": true,
+    "note": "",
     "buyLinks": [],
     "available": false,
     "ean": null
@@ -734,6 +815,7 @@
     "supportsWifi": true,
     "supportsBluetooth": false,
     "display": true,
+    "note": "",
     "buyLinks": [],
     "available": false,
     "ean": null
@@ -749,6 +831,7 @@
     "supportsWifi": true,
     "supportsBluetooth": true,
     "display": true,
+    "note": "",
     "buyLinks": [],
     "available": true,
     "ean": "4895251605571"
@@ -764,6 +847,7 @@
     "supportsWifi": true,
     "supportsBluetooth": false,
     "display": true,
+    "note": "",
     "buyLinks": [],
     "available": false,
     "ean": null
@@ -779,6 +863,7 @@
     "supportsWifi": false,
     "supportsBluetooth": false,
     "display": true,
+    "note": "",
     "buyLinks": [],
     "available": false,
     "ean": null
@@ -794,6 +879,7 @@
     "supportsWifi": true,
     "supportsBluetooth": false,
     "display": true,
+    "note": "Shenzhen NEO Electronics Co. Ltd.",
     "buyLinks": [],
     "available": false,
     "ean": null
@@ -809,6 +895,7 @@
     "supportsWifi": false,
     "supportsBluetooth": false,
     "display": true,
+    "note": "Shenzhen NEO Electronics Co. Ltd. - Source: https://www.szneo.com/en/products/show.php?id=271",
     "buyLinks": [],
     "available": false,
     "ean": null
@@ -824,6 +911,7 @@
     "supportsWifi": false,
     "supportsBluetooth": false,
     "display": true,
+    "note": "Shenzhen NEO Electronics Co. Ltd. - Source: https://www.szneo.com/en/products/show.php?id=271",
     "buyLinks": [],
     "available": false,
     "ean": null
@@ -839,6 +927,7 @@
     "supportsWifi": true,
     "supportsBluetooth": true,
     "display": true,
+    "note": "Shenzhen NEO Electronics Co. Ltd. - Source: https://www.szneo.com/en/products/show.php?id=271",
     "buyLinks": [],
     "available": false,
     "ean": null
@@ -854,6 +943,7 @@
     "supportsWifi": true,
     "supportsBluetooth": false,
     "display": true,
+    "note": "Can't fint the exact product",
     "buyLinks": [],
     "available": true,
     "ean": null
@@ -869,6 +959,7 @@
     "supportsWifi": true,
     "supportsBluetooth": false,
     "display": true,
+    "note": "",
     "buyLinks": [],
     "available": false,
     "ean": null
@@ -884,6 +975,7 @@
     "supportsWifi": false,
     "supportsBluetooth": false,
     "display": false,
+    "note": "Not consumer facing",
     "buyLinks": [],
     "available": false,
     "ean": null
@@ -899,6 +991,7 @@
     "supportsWifi": true,
     "supportsBluetooth": false,
     "display": true,
+    "note": "",
     "buyLinks": [],
     "available": false,
     "ean": null
@@ -914,6 +1007,7 @@
     "supportsWifi": true,
     "supportsBluetooth": false,
     "display": true,
+    "note": "",
     "buyLinks": [],
     "available": false,
     "ean": null
@@ -929,6 +1023,7 @@
     "supportsWifi": true,
     "supportsBluetooth": false,
     "display": true,
+    "note": "",
     "buyLinks": [],
     "available": false,
     "ean": null
@@ -944,6 +1039,7 @@
     "supportsWifi": false,
     "supportsBluetooth": false,
     "display": false,
+    "note": "",
     "buyLinks": [],
     "available": false,
     "ean": null
@@ -959,6 +1055,7 @@
     "supportsWifi": true,
     "supportsBluetooth": false,
     "display": true,
+    "note": "",
     "buyLinks": [],
     "available": false,
     "ean": null
@@ -974,6 +1071,7 @@
     "supportsWifi": true,
     "supportsBluetooth": false,
     "display": true,
+    "note": "",
     "buyLinks": [],
     "available": false,
     "ean": null
@@ -989,6 +1087,7 @@
     "supportsWifi": true,
     "supportsBluetooth": false,
     "display": true,
+    "note": "",
     "buyLinks": [],
     "available": false,
     "ean": null
@@ -1004,6 +1103,7 @@
     "supportsWifi": true,
     "supportsBluetooth": false,
     "display": true,
+    "note": "",
     "buyLinks": [],
     "available": true,
     "ean": null
@@ -1019,6 +1119,7 @@
     "supportsWifi": true,
     "supportsBluetooth": false,
     "display": true,
+    "note": "",
     "buyLinks": [],
     "available": true,
     "ean": null
@@ -1034,6 +1135,7 @@
     "supportsWifi": true,
     "supportsBluetooth": false,
     "display": true,
+    "note": "",
     "buyLinks": [],
     "available": true,
     "ean": null
@@ -1049,6 +1151,7 @@
     "supportsWifi": true,
     "supportsBluetooth": false,
     "display": true,
+    "note": "",
     "buyLinks": [],
     "available": true,
     "ean": "8719514551916"
@@ -1064,6 +1167,7 @@
     "supportsWifi": false,
     "supportsBluetooth": false,
     "display": false,
+    "note": "Can not find products",
     "buyLinks": [],
     "available": false,
     "ean": null
@@ -1079,6 +1183,7 @@
     "supportsWifi": true,
     "supportsBluetooth": false,
     "display": true,
+    "note": "",
     "buyLinks": [],
     "available": true,
     "ean": "8719514551855"
@@ -1094,6 +1199,7 @@
     "supportsWifi": false,
     "supportsBluetooth": false,
     "display": false,
+    "note": "Can not find product",
     "buyLinks": [],
     "available": false,
     "ean": null
@@ -1109,6 +1215,7 @@
     "supportsWifi": false,
     "supportsBluetooth": false,
     "display": false,
+    "note": "No clue what caveman means? New brand from nanoleaf?",
     "buyLinks": [],
     "available": false,
     "ean": null
@@ -1124,6 +1231,7 @@
     "supportsWifi": false,
     "supportsBluetooth": false,
     "display": false,
+    "note": "Can not find product",
     "buyLinks": [],
     "available": false,
     "ean": null
@@ -1139,6 +1247,7 @@
     "supportsWifi": false,
     "supportsBluetooth": false,
     "display": false,
+    "note": "No clue what caveman means? New brand from nanoleaf?",
     "buyLinks": [],
     "available": false,
     "ean": null
@@ -1154,6 +1263,7 @@
     "supportsWifi": true,
     "supportsBluetooth": false,
     "display": true,
+    "note": "",
     "buyLinks": [],
     "available": true,
     "ean": null
@@ -1169,6 +1279,7 @@
     "supportsWifi": false,
     "supportsBluetooth": false,
     "display": true,
+    "note": "",
     "buyLinks": [],
     "available": false,
     "ean": null
@@ -1184,6 +1295,7 @@
     "supportsWifi": false,
     "supportsBluetooth": false,
     "display": true,
+    "note": "",
     "buyLinks": [],
     "available": false,
     "ean": null
@@ -1199,6 +1311,7 @@
     "supportsWifi": false,
     "supportsBluetooth": false,
     "display": true,
+    "note": "",
     "buyLinks": [],
     "available": true,
     "ean": "5907720713867"
@@ -1214,6 +1327,7 @@
     "supportsWifi": false,
     "supportsBluetooth": false,
     "display": true,
+    "note": "",
     "buyLinks": [],
     "available": true,
     "ean": ""
@@ -1229,6 +1343,7 @@
     "supportsWifi": false,
     "supportsBluetooth": false,
     "display": true,
+    "note": "",
     "buyLinks": [],
     "available": true,
     "ean": ""
@@ -1244,10 +1359,12 @@
     "supportsWifi": false,
     "supportsBluetooth": false,
     "display": true,
+    "note": "",
     "buyLinks": [],
     "available": true,
     "ean": ""
   },
+
   {
     "image": null,
     "product": "Wi-Fi Switch On/Off",
@@ -1259,6 +1376,7 @@
     "supportsWifi": false,
     "supportsBluetooth": false,
     "display": false,
+    "note": "",
     "buyLinks": [],
     "available": false,
     "ean": null
@@ -1274,6 +1392,7 @@
     "supportsWifi": true,
     "supportsBluetooth": false,
     "display": true,
+    "note": "",
     "buyLinks": [],
     "available": true,
     "ean": null
@@ -1289,6 +1408,7 @@
     "supportsWifi": false,
     "supportsBluetooth": false,
     "display": false,
+    "note": "Module maker",
     "buyLinks": [],
     "available": false,
     "ean": null
@@ -1304,6 +1424,7 @@
     "supportsWifi": false,
     "supportsBluetooth": false,
     "display": false,
+    "note": "Alibaba reseller. Could not find matter product",
     "buyLinks": [],
     "available": false,
     "ean": null
@@ -1319,6 +1440,7 @@
     "supportsWifi": false,
     "supportsBluetooth": false,
     "display": true,
+    "note": "Same as heiman?",
     "buyLinks": [],
     "available": false,
     "ean": null
@@ -1334,6 +1456,7 @@
     "supportsWifi": true,
     "supportsBluetooth": false,
     "display": true,
+    "note": "",
     "buyLinks": [],
     "available": false,
     "ean": null
@@ -1349,6 +1472,7 @@
     "supportsWifi": true,
     "supportsBluetooth": false,
     "display": true,
+    "note": "",
     "buyLinks": [],
     "available": false,
     "ean": null
@@ -1364,6 +1488,7 @@
     "supportsWifi": false,
     "supportsBluetooth": false,
     "display": false,
+    "note": "Can not find",
     "buyLinks": [],
     "available": false,
     "ean": null
@@ -1379,6 +1504,7 @@
     "supportsWifi": false,
     "supportsBluetooth": false,
     "display": false,
+    "note": "Don/t display matter products yet on their site. Seem to go for zigbee",
     "buyLinks": [],
     "available": false,
     "ean": null
@@ -1394,6 +1520,7 @@
     "supportsWifi": false,
     "supportsBluetooth": true,
     "display": true,
+    "note": "",
     "buyLinks": [],
     "available": true,
     "ean": null
@@ -1409,6 +1536,7 @@
     "supportsWifi": false,
     "supportsBluetooth": true,
     "display": true,
+    "note": "",
     "buyLinks": [],
     "available": false,
     "ean": null
@@ -1424,6 +1552,7 @@
     "supportsWifi": false,
     "supportsBluetooth": false,
     "display": true,
+    "note": "",
     "buyLinks": [],
     "available": false,
     "ean": "4897105330134"
@@ -1439,6 +1568,7 @@
     "supportsWifi": false,
     "supportsBluetooth": false,
     "display": true,
+    "note": "",
     "buyLinks": [],
     "available": false,
     "ean": "4897105330134"
@@ -1454,6 +1584,7 @@
     "supportsWifi": false,
     "supportsBluetooth": false,
     "display": true,
+    "note": "",
     "buyLinks": [],
     "available": false,
     "ean": "0628110858047"
@@ -1469,6 +1600,7 @@
     "supportsWifi": false,
     "supportsBluetooth": false,
     "display": true,
+    "note": "",
     "buyLinks": [],
     "available": false,
     "ean": "0840102701647"
@@ -1484,6 +1616,7 @@
     "supportsWifi": true,
     "supportsBluetooth": false,
     "display": true,
+    "note": "Tapo and kasa are both from TP Link - Tapo S505D",
     "buyLinks": [],
     "available": true,
     "ean": "0840030701368"
@@ -1499,8 +1632,25 @@
     "supportsWifi": true,
     "supportsBluetooth": false,
     "display": true,
+    "note": "",
     "buyLinks": [],
     "available": true,
+    "ean": null
+  },
+  {
+    "image": "product_images/zemismart_roller_motor.webp",
+    "product": "Zemismart Thread Roller Motor",
+    "manufacturer": "Zemismart",
+    "certification_id": "Certificate ID: CSA23A16MAT41528-24",
+    "certification_link": "https://csa-iot.org/csa_product/zemismart-thread-roller-motor-4/",
+    "category": "Blinds / Shades",
+    "supportsThread": true,
+    "supportsWifi": false,
+    "supportsBluetooth": false,
+    "display": true,
+    "note": "",
+    "buyLinks": [],
+    "available": false,
     "ean": null
   },
   {
@@ -1514,6 +1664,7 @@
     "supportsWifi": true,
     "supportsBluetooth": false,
     "display": true,
+    "note": "",
     "buyLinks": [],
     "available": true,
     "ean": null
@@ -1529,6 +1680,7 @@
     "supportsWifi": true,
     "supportsBluetooth": false,
     "display": true,
+    "note": "KS205",
     "buyLinks": [],
     "available": true,
     "ean": null
@@ -1544,6 +1696,7 @@
     "supportsWifi": false,
     "supportsBluetooth": false,
     "display": false,
+    "note": "Can't find m",
     "buyLinks": [],
     "available": true,
     "ean": null
@@ -1559,6 +1712,7 @@
     "supportsWifi": false,
     "supportsBluetooth": false,
     "display": false,
+    "note": "Module maker",
     "buyLinks": [],
     "available": false,
     "ean": null
@@ -1574,6 +1728,7 @@
     "supportsWifi": false,
     "supportsBluetooth": false,
     "display": false,
+    "note": "Already shown see -> Smart Wi-Fi Light Switch",
     "buyLinks": [],
     "available": true,
     "ean": null
@@ -1584,11 +1739,13 @@
     "manufacturer": "Tapo",
     "certification_id": "Certificate ID: CSA22473MAT40473-24",
     "certification_link": "https://csa-iot.org/csa_product/tapo-smart-wi-fi-dimmer-switch/",
+
     "category": "light",
     "supportsThread": false,
     "supportsWifi": false,
     "supportsBluetooth": false,
     "display": false,
+    "note": "Already displayed",
     "buyLinks": [],
     "available": false,
     "ean": null
@@ -1604,6 +1761,7 @@
     "supportsWifi": false,
     "supportsBluetooth": false,
     "display": false,
+    "note": "Module maker",
     "buyLinks": [],
     "available": false,
     "ean": null
@@ -1619,6 +1777,7 @@
     "supportsWifi": false,
     "supportsBluetooth": false,
     "display": false,
+    "note": "Already visible -> Tapo Smart Plug P125M",
     "buyLinks": [],
     "available": false,
     "ean": null
@@ -1634,6 +1793,7 @@
     "supportsWifi": true,
     "supportsBluetooth": false,
     "display": true,
+    "note": "Tapo P135 KIT",
     "buyLinks": [],
     "available": true,
     "ean": null
@@ -1649,6 +1809,7 @@
     "supportsWifi": false,
     "supportsBluetooth": false,
     "display": false,
+    "note": "Already displayed.",
     "buyLinks": [],
     "available": false,
     "ean": null
@@ -1664,6 +1825,7 @@
     "supportsWifi": false,
     "supportsBluetooth": false,
     "display": true,
+    "note": "Only b2b",
     "buyLinks": [],
     "available": false,
     "ean": null
@@ -1679,6 +1841,7 @@
     "supportsWifi": false,
     "supportsBluetooth": false,
     "display": true,
+    "note": "Only b2b",
     "buyLinks": [],
     "available": false,
     "ean": null
@@ -1694,6 +1857,7 @@
     "supportsWifi": false,
     "supportsBluetooth": false,
     "display": true,
+    "note": "Only b2b",
     "buyLinks": [],
     "available": false,
     "ean": null
@@ -1709,6 +1873,7 @@
     "supportsWifi": false,
     "supportsBluetooth": false,
     "display": true,
+    "note": "Only b2b",
     "buyLinks": [],
     "available": false,
     "ean": null
@@ -1724,6 +1889,7 @@
     "supportsWifi": true,
     "supportsBluetooth": false,
     "display": true,
+    "note": "",
     "buyLinks": [],
     "available": true,
     "ean": null
@@ -1739,6 +1905,7 @@
     "supportsWifi": false,
     "supportsBluetooth": false,
     "display": false,
+    "note": "Can not find anything",
     "buyLinks": [],
     "available": false,
     "ean": null
@@ -1754,6 +1921,7 @@
     "supportsWifi": true,
     "supportsBluetooth": false,
     "display": true,
+    "note": "",
     "buyLinks": [],
     "available": true,
     "ean": null
@@ -1769,6 +1937,7 @@
     "supportsWifi": true,
     "supportsBluetooth": false,
     "display": true,
+    "note": "",
     "buyLinks": [],
     "available": true,
     "ean": null
@@ -1784,6 +1953,7 @@
     "supportsWifi": true,
     "supportsBluetooth": true,
     "display": true,
+    "note": "",
     "buyLinks": [],
     "available": false,
     "ean": null
@@ -1799,6 +1969,7 @@
     "supportsWifi": true,
     "supportsBluetooth": false,
     "display": true,
+    "note": "",
     "buyLinks": [],
     "available": true,
     "ean": null
@@ -1814,6 +1985,7 @@
     "supportsWifi": false,
     "supportsBluetooth": false,
     "display": true,
+    "note": "",
     "buyLinks": [],
     "available": true,
     "ean": "8718575084821"
@@ -1829,6 +2001,7 @@
     "supportsWifi": false,
     "supportsBluetooth": false,
     "display": true,
+    "note": "",
     "buyLinks": [],
     "available": false,
     "ean": ""
@@ -1844,6 +2017,7 @@
     "supportsWifi": false,
     "supportsBluetooth": false,
     "display": true,
+    "note": "",
     "buyLinks": [],
     "available": false,
     "ean": "8718575084821"
@@ -1859,6 +2033,7 @@
     "supportsWifi": false,
     "supportsBluetooth": false,
     "display": true,
+    "note": "",
     "buyLinks": [],
     "available": false,
     "ean": "4260195392113"
@@ -1874,6 +2049,7 @@
     "supportsWifi": false,
     "supportsBluetooth": false,
     "display": true,
+    "note": "",
     "buyLinks": [],
     "available": false,
     "ean": "4260195391895"
@@ -1889,6 +2065,7 @@
     "supportsWifi": true,
     "supportsBluetooth": false,
     "display": true,
+    "note": "",
     "buyLinks": [],
     "available": false,
     "ean": ""
@@ -1904,13 +2081,14 @@
     "supportsWifi": true,
     "supportsBluetooth": false,
     "display": true,
+    "note": "",
     "buyLinks": [],
     "available": false,
     "ean": ""
   },
   {
     "image": "product_images/leviton_switch.webp",
-    "product": "Leviton Decora Switch ",
+    "product": "Leviton Decora Switch D215S",
     "manufacturer": "Leviton",
     "certification_id": "",
     "certification_link": "",
@@ -1919,13 +2097,14 @@
     "supportsWifi": true,
     "supportsBluetooth": false,
     "display": true,
+    "note": "",
     "buyLinks": [],
     "available": false,
     "ean": ""
   },
   {
     "image": "product_images/leviton_dimmer.webp",
-    "product": "Leviton Decora Dimmer ",
+    "product": "Leviton Decora Dimmer D26HD",
     "manufacturer": "Leviton",
     "certification_id": "",
     "certification_link": "",
@@ -1934,28 +2113,14 @@
     "supportsWifi": true,
     "supportsBluetooth": false,
     "display": true,
-    "buyLinks": [],
-    "available": false,
-    "ean": ""
-  },
-  {
-    "image": "product_images/leviton_motion_dimmer.webp",
-    "product": "Leviton Decora Motion Sensor + Dimmer ",
-    "manufacturer": "Leviton",
-    "certification_id": "",
-    "certification_link": "",
-    "category": "motion sensors",
-    "supportsThread": false,
-    "supportsWifi": true,
-    "supportsBluetooth": false,
-    "display": true,
+    "note": "",
     "buyLinks": [],
     "available": false,
     "ean": ""
   },
   {
     "image": "product_images/leviton_plug.webp",
-    "product": "Leviton Decora Plug In Switch ",
+    "product": "Leviton Decora D215P Smart Plug",
     "manufacturer": "Leviton",
     "certification_id": "",
     "certification_link": "",
@@ -1964,21 +2129,23 @@
     "supportsWifi": true,
     "supportsBluetooth": false,
     "display": true,
+    "note": "",
     "buyLinks": [],
     "available": false,
     "ean": ""
   },
   {
-    "image": "product_images/leviton_dimmer.webp",
-    "product": "Leviton Decora Dimmer ",
+    "image": "product_images/leviton_plug.webp",
+    "product": "Leviton Decora D23LP Smart Plug Dimmer",
     "manufacturer": "Leviton",
     "certification_id": "",
     "certification_link": "",
-    "category": "switch",
+    "category": "plugs",
     "supportsThread": false,
     "supportsWifi": true,
     "supportsBluetooth": false,
     "display": true,
+    "note": "",
     "buyLinks": [],
     "available": false,
     "ean": ""
@@ -1994,6 +2161,7 @@
     "supportsWifi": true,
     "supportsBluetooth": false,
     "display": true,
+    "note": "",
     "buyLinks": [],
     "available": false,
     "ean": ""
@@ -2009,6 +2177,7 @@
     "supportsWifi": false,
     "supportsBluetooth": false,
     "display": true,
+    "note": "",
     "buyLinks": [],
     "available": false,
     "ean": "4260195392076"
@@ -2024,6 +2193,7 @@
     "supportsWifi": false,
     "supportsBluetooth": false,
     "display": true,
+    "note": "",
     "buyLinks": [],
     "available": false,
     "ean": ""
@@ -2039,6 +2209,7 @@
     "supportsWifi": true,
     "supportsBluetooth": true,
     "display": true,
+    "note": "",
     "buyLinks": [],
     "available": false,
     "ean": null
@@ -2054,6 +2225,7 @@
     "supportsWifi": true,
     "supportsBluetooth": false,
     "display": true,
+    "note": "",
     "buyLinks": [],
     "available": true,
     "ean": null
@@ -2069,6 +2241,7 @@
     "supportsWifi": false,
     "supportsBluetooth": false,
     "display": true,
+    "note": "",
     "buyLinks": [],
     "available": false,
     "ean": null
@@ -2084,6 +2257,7 @@
     "supportsWifi": false,
     "supportsBluetooth": false,
     "display": true,
+    "note": "",
     "buyLinks": [],
     "available": false,
     "ean": null
@@ -2099,6 +2273,7 @@
     "supportsWifi": false,
     "supportsBluetooth": false,
     "display": true,
+    "note": "",
     "buyLinks": [],
     "available": false,
     "ean": null
@@ -2114,6 +2289,7 @@
     "supportsWifi": false,
     "supportsBluetooth": false,
     "display": true,
+    "note": "Is same as Heiman?",
     "buyLinks": [],
     "available": false,
     "ean": null
@@ -2129,6 +2305,7 @@
     "supportsWifi": true,
     "supportsBluetooth": false,
     "display": true,
+    "note": "",
     "buyLinks": [],
     "available": false,
     "ean": null
@@ -2144,6 +2321,7 @@
     "supportsWifi": true,
     "supportsBluetooth": false,
     "display": true,
+    "note": "",
     "buyLinks": [],
     "available": false,
     "ean": null
@@ -2159,6 +2337,7 @@
     "supportsWifi": false,
     "supportsBluetooth": true,
     "display": true,
+    "note": "",
     "buyLinks": [],
     "available": true,
     "ean": null
@@ -2174,6 +2353,7 @@
     "supportsWifi": false,
     "supportsBluetooth": true,
     "display": true,
+    "note": "",
     "buyLinks": [],
     "available": true,
     "ean": null
@@ -2189,6 +2369,7 @@
     "supportsWifi": false,
     "supportsBluetooth": true,
     "display": true,
+    "note": "",
     "buyLinks": [],
     "available": true,
     "ean": null
@@ -2204,6 +2385,7 @@
     "supportsWifi": false,
     "supportsBluetooth": false,
     "display": true,
+    "note": "",
     "buyLinks": [],
     "available": false,
     "ean": null
@@ -2219,6 +2401,7 @@
     "supportsWifi": true,
     "supportsBluetooth": false,
     "display": true,
+    "note": "",
     "buyLinks": [],
     "available": true,
     "ean": null
@@ -2234,6 +2417,7 @@
     "supportsWifi": false,
     "supportsBluetooth": false,
     "display": true,
+    "note": "",
     "buyLinks": [],
     "available": false,
     "ean": null
@@ -2249,6 +2433,7 @@
     "supportsWifi": false,
     "supportsBluetooth": false,
     "display": true,
+    "note": "",
     "buyLinks": [],
     "available": true,
     "ean": "6970504219649"
@@ -2264,6 +2449,7 @@
     "supportsWifi": true,
     "supportsBluetooth": false,
     "display": true,
+    "note": "",
     "buyLinks": [],
     "available": false,
     "ean": null
@@ -2279,6 +2465,7 @@
     "supportsWifi": false,
     "supportsBluetooth": false,
     "display": false,
+    "note": "Can't find a matter statement",
     "buyLinks": [],
     "available": false,
     "ean": null
@@ -2294,6 +2481,7 @@
     "supportsWifi": true,
     "supportsBluetooth": false,
     "display": true,
+    "note": "",
     "buyLinks": [],
     "available": false,
     "ean": null
@@ -2309,6 +2497,7 @@
     "supportsWifi": true,
     "supportsBluetooth": true,
     "display": true,
+    "note": "Qingdao Yeelink Information Technology Co., Ltd.",
     "buyLinks": [],
     "available": false,
     "ean": null
@@ -2324,6 +2513,7 @@
     "supportsWifi": true,
     "supportsBluetooth": true,
     "display": false,
+    "note": "Qingdao Yeelink Information Technology Co., Ltd. - No Matter support planned yet",
     "buyLinks": [],
     "available": false,
     "ean": null
@@ -2339,6 +2529,7 @@
     "supportsWifi": false,
     "supportsBluetooth": false,
     "display": false,
+    "note": "Duplicate",
     "buyLinks": [],
     "available": false,
     "ean": null
@@ -2354,6 +2545,7 @@
     "supportsWifi": true,
     "supportsBluetooth": false,
     "display": true,
+    "note": "",
     "buyLinks": [],
     "available": false,
     "ean": null
