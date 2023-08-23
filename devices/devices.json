@@ -15,6 +15,22 @@
     "ean": null
   },
   {
+    "image": "product_images/zemismart_roller_motor.webp",
+    "product": "Zemismart Roller Motor",
+    "manufacturer": "Zemismart",
+    "certification_id": "Certificate ID: CSA23099MAT40612-24",
+    "certification_link": "https://csa-iot.org/csa_product/zemismart-matter-roller-motor/",
+    "category": "Blinds / Shades",
+    "supportsThread": false,
+    "supportsWifi": true,
+    "supportsBluetooth": false,
+    "display": true,
+    "note": "",
+    "buyLinks": [],
+    "available": true,
+    "ean": null
+  },
+  {
     "image": null,
     "product": "Klite WiFi LED Lamp – Full Color",
     "manufacturer": "Klite",
