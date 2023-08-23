@@ -404,7 +404,7 @@
   },
   {
     "image": "product_images/govee_strip.webp",
-    "product": "Govee LED Strip Light",
+    "product": "Govee LED Strip Light M1",
     "manufacturer": "Govee",
     "certification_id": "Certificate ID: CSA23584MAT41097-24",
     "certification_link": "https://csa-iot.org/csa_product/govee-led-strip-light-8/",
@@ -414,7 +414,9 @@
     "supportsBluetooth": true,
     "display": true,
     "note": "",
-    "buyLinks": [],
+    "buyLinks": [
+      "https://us.govee.com/products/govee-led-strip-light-m1-matter-compatible"
+    ],
     "available": true,
     "ean": "6974316992608"
   },
