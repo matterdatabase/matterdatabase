@@ -1,5 +1,21 @@
 [
   {
+    "image": "product_images/imig_m2d.webp",
+    "product": "M2D Bridge",
+    "manufacturer": "innovation matters iot GmbH",
+    "certification_id": "Certificate ID: CSA23636MAT41149-24",
+    "certification_link": "https://csa-iot.org/csa_product/m2d-bridge-2",
+    "category": "light",
+    "supportsThread": false,
+    "supportsWifi": true,
+    "supportsBluetooth": false,
+    "display": false,
+    "note": "Matter to DALI broadcast",
+    "buyLinks": ["https://www.innovation-matters.at/en/product-2/m2d_bridge/"],
+    "available": true,
+    "ean": null
+  },
+  {
     "image": null,
     "product": "Smart Wi-Fi Plug",
     "manufacturer": "Shenzhen Phaten Technology Co., Ltd.",
