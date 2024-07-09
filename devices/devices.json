@@ -545,21 +545,7 @@
     "buyLinks": [],
     "ean": null
   },
-  {
-    "image": "product_images/ecobee_thermostat.webp",
-    "product": "Ecobee Smart Thermostat",
-    "manufacturer": "Ecobee",
-    "certification_id": "",
-    "certification_link": "",
-    "category": "climate",
-    "supportsThread": false,
-    "supportsWifi": true,
-    "supportsBluetooth": false,
-    "display": true,
-    "note": "",
-    "buyLinks": [],
-    "ean": null
-  },
+
   {
     "image": null,
     "product": "Smart Plug-in Unit",
@@ -2321,21 +2307,6 @@
     "ean": null
   },
   {
-    "image": "https://s3.amazonaws.com/assets.knackhq.com/assets/54e658034b4f44e42fb18201/63525c8c61e57900210c98e4/thumb_1/productimage.jpeg",
-    "product": "Midea window Air Conditioner",
-    "manufacturer": "GD Midea Air-Conditioning Equipment Co., Ltd.",
-    "certification_id": "Certificate ID: CSA22074MAT40074-24",
-    "certification_link": "https://csa-iot.org/csa_product/midea-window-air-conditioner/",
-    "category": "climate",
-    "supportsThread": false,
-    "supportsWifi": false,
-    "supportsBluetooth": false,
-    "display": false,
-    "note": "Can't find a matter statement",
-    "buyLinks": [],
-    "ean": null
-  },
-  {
     "image": "product_images/haier_air_conditioning.webp",
     "product": "Haier air conditioner",
     "manufacturer": "Haier",
@@ -2537,7 +2508,7 @@
   {
     "image": "product_images/tuo_temperature_sensor.webp",
     "product": "Temperature Sensor",
-    "manufacturer": "Tuo",
+    "manufacturer": "TUO",
     "certification_id": "",
     "certification_link": "",
     "category": "climate",
@@ -2586,24 +2557,7 @@
     "ean": "8595188189774,"
   },
   {
-    "image": "product_images/elkoep_universal_dimmmer.webp",
-    "product": "Universal Dimmer",
-    "manufacturer": "Elkoep",
-    "certification_id": "",
-    "certification_link": "",
-    "category": "switch",
-    "supportsThread": true,
-    "supportsWifi": false,
-    "supportsBluetooth": false,
-    "display": true,
-    "note": "",
-    "buyLinks": [
-      "https://www.elkoep.com/universal-dimmer-matter-br-rfdel-71b-slmt"
-    ],
-    "ean": "8595188189552"
-  },
-  {
-    "image": "product_images/elkoep_universal_dimmmer.webp",
+    "image": "product_images/elkoep_universal_dimmer.webp",
     "product": "Universal Dimmer",
     "manufacturer": "Elkoep",
     "certification_id": "",
@@ -2827,7 +2781,7 @@
     "ean": ""
   },
   {
-    "image": "product_images/nest_thermostat.webp",
+    "image": "product_images/google_nest_learning_thermostat.webp",
     "product": "Nest Learning Thermostat",
     "manufacturer": "Google",
     "certification_id": "",
@@ -2862,8 +2816,8 @@
     "image": "product_images/midea_air_conditioner.webp",
     "product": "Air Conditioner 12000 BTU",
     "manufacturer": "Midea",
-    "certification_id": "",
-    "certification_link": "",
+    "certification_id": "CSA22074MAT40074-24",
+    "certification_link": "https://csa-iot.org/csa_product/midea-window-air-conditioner/",
     "category": "climate",
     "supportsThread": false,
     "supportsWifi": true,
@@ -2876,7 +2830,7 @@
     "ean": null
   },
   {
-    "image": "product_images/fan_heat_air_purifier.webp",
+    "image": "product_images/midea_fan_heat_air_purifier.webp",
     "product": "3 in 1 Fan Heater Air Purifier",
     "manufacturer": "Midea",
     "certification_id": "",
