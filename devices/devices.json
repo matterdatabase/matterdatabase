@@ -2788,7 +2788,7 @@
     "certification_id": "",
     "certification_link": "",
     "category": "climate",
-    "supportsThread": true,
+    "supportsThread": false,
     "supportsWifi": true,
     "supportsBluetooth": false,
     "display": true,
