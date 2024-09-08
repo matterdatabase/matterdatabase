@@ -1292,7 +1292,7 @@
     "certification_id": "Certificate ID: CSA23170MAT40683-50",
     "certification_link": "https://csa-iot.org/csa_product/nest-thermostat-2/",
     "category": "climate",
-    "supportsThread": true,
+    "supportsThread": false,
     "supportsWifi": true,
     "supportsBluetooth": false,
     "display": true,
